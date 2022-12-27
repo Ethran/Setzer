@@ -1,7 +1,7 @@
 {
     "app-id": "org.cvfosammmm.Setzer",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.38",
+    "runtime-version": "40",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": ["org.freedesktop.Sdk.Extension.texlive"],
     "command": "setzer",
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gspell/1.8/gspell-1.8.4.tar.xz",
-                    "sha256": "cf4d16a716e813449bd631405dc1001ea89537b8cdae2b8abfb3999212bd43b4"
+                    "url": "https://download.gnome.org/sources/gspell/1.9/gspell-1.9.1.tar.xz",
+                    "sha256": "dcbb769dfdde8e3c0a8ed3102ce7e661abbf7ddf85df08b29915e92cd723abdd"
                 }
             ]
         },
@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://boostorg.jfrog.io/artifactory/main/release/1.73.0/source/boost_1_73_0.tar.bz2",
-                    "sha256": "4eb3b8d442b426dc35346235c8733b5ae35ba431690e38c6a8263dce9fcbb402"
+                    "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.bz2",
+                    "sha256": "71feeed900fbccca04a3b4f2f84a7c217186f28a940ed8b7ed4725986baf99fa"
                 }
             ]
         },
@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-21.11.0.tar.xz",
-                    "sha256": "31b76b5cac0a48612fdd154c02d9eca01fd38fb8eaa77c1196840ecdeb53a584"
+                    "url": "https://poppler.freedesktop.org/poppler-22.12.0.tar.xz",
+                    "sha256": "d9aa9cacdfbd0f8e98fc2b3bb008e645597ed480685757c3e7bc74b4278d15c0"
                 }
             ]
         },
@@ -99,8 +99,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.cpan.org/src/5.0/perl-5.32.0.tar.gz",
-                    "sha256": "efeb1ce1f10824190ad1cadbcccf6fdb8a5d37007d0100d2d9ae5f2b5900c0b4"
+                    "url": "https://www.cpan.org/src/5.0/perl-5.36.0.tar.gz",
+                    "sha256": "e26085af8ac396f62add8a533c3a0ea8c8497d836f0689347ac5abd7b7a4e00a"
                 },
                 {
                     "type": "script",
@@ -118,8 +118,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/9d/6e/499d6a6db416eb3cdf0e57762a269908e4ab6638a75a90972afc34885b91/pycairo-1.20.0.tar.gz",
-                    "sha256": "5695a10cb7f9ae0d01f665b56602a845b0a8cb17e2123bfece10c2e58552468c"
+                    "url": "https://files.pythonhosted.org/packages/69/ca/9e9fa2e8be0876a9bbf046a1be7ee33e61d4fdfbd1fd25c76c1bdfddf8c4/pycairo-1.23.0.tar.gz",
+                    "sha256": "9b61ac818723adc04367301317eb2e814a83522f07bbd1f409af0dada463c44c"
                 }
             ]
         },
